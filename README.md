@@ -1,4 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chekos/testing_parsons/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chekos/testing_censusgeocode/master?urlpah=lab)
 ***
-# testing_parsons
-Checking out https://move-coop.github.io/parsons/html/index.html
+# testing_censusgeocode
